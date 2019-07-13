@@ -244,12 +244,11 @@ ap.onclick =functionAp;
 
  }
 
- var calc = document.getElementById("got");
+ /*var calc = document.getElementById("jsgot");
  calc.addEventListener("keyup", function(event) {
  if(event.keyCode === 13){
      event.preventDefault();
-     document.getElementById("for").click();
-     document.write(5);
+     document.getElementById("jsfor").click();
+     
  }
-});
- 
+}); */
